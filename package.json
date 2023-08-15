@@ -1,7 +1,7 @@
 {
-  "name": "postcss-plugin-boilerplate",
+  "name": "postcss-starzad",
   "description": "PostCSS plugin boilerplate",
-  "repository": "postcss/postcss-plugin-boilerplate",
+  "repository": "postcss/postcss-starzad",
   "version": "2.0.1",
   "license": "MIT",
   "bin": "cli.js",

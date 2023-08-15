@@ -5,7 +5,7 @@ module.exports = (opts = {}) => {
   // Work with options here
 
   return {
-    postcssPlugin: '${pluginName}',
+    postcssPlugin: 'postcss-starzad}'
     /*
     Root (root, postcss) {
       // Transform CSS AST here
