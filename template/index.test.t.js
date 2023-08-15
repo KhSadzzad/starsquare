@@ -10,12 +10,8 @@ async function run(input, output, opts = {}) {
   equal(result.warnings().length, 0)
 }
 
-/* Write tests here
-
 test('does something', async () => {
-  await run('a{ }', 'a{ }', { })
+  await run('a{ }', 'a{ }', {})
 })
-
-*/
 
 test.run()
